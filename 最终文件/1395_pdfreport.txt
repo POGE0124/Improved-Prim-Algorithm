@@ -1,0 +1,20 @@
+Dear Po Hu,
+
+Congratulations! The following PDF has passed the PDF Check:
+
+Filename: PID4693575.pdf
+Title: PID4693575
+Paper ID: 4693609
+Creation Date: 9 March 2017 17:29 -0800 GMT
+
+The approved file is attached to this message, and is labeled within its document properties as being "Certified by IEEE PDF eXpress", with an exact date and time stamp. The file attached to this message is the file that you should submit to your conference's final paper collection site.
+
+Please remember that ANY changes made to your PDF at this point could impact Xplore compatibility.  PDF eXpress has examined and passed only the file version submitted to the site. This email serves as the official confirmation.
+
+Follow your conference guidelines for submitting your final paper to the conference. The deadline is 10 April 2017.
+
+A Reminder: PDF eXpress is NOT the final collection site.
+
+Thank you for using PDF eXpress!
+
+For guidance in creating Xplore-compliant PDFs, email mailto:PDFsupport@ieee.org
